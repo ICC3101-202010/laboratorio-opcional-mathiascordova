@@ -1,0 +1,6 @@
+C:\Users\mathi\OneDrive\Escritorio\laboratorio-opcional-mathiascordova\laboratorio-opcional\laboratorio-opcional\bin\Debug\laboratorio-opcional.exe.config
+C:\Users\mathi\OneDrive\Escritorio\laboratorio-opcional-mathiascordova\laboratorio-opcional\laboratorio-opcional\bin\Debug\laboratorio-opcional.exe
+C:\Users\mathi\OneDrive\Escritorio\laboratorio-opcional-mathiascordova\laboratorio-opcional\laboratorio-opcional\bin\Debug\laboratorio-opcional.pdb
+C:\Users\mathi\OneDrive\Escritorio\laboratorio-opcional-mathiascordova\laboratorio-opcional\laboratorio-opcional\obj\Debug\laboratorio-opcional.csprojAssemblyReference.cache
+C:\Users\mathi\OneDrive\Escritorio\laboratorio-opcional-mathiascordova\laboratorio-opcional\laboratorio-opcional\obj\Debug\laboratorio-opcional.exe
+C:\Users\mathi\OneDrive\Escritorio\laboratorio-opcional-mathiascordova\laboratorio-opcional\laboratorio-opcional\obj\Debug\laboratorio-opcional.pdb
